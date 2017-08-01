@@ -1,4 +1,4 @@
 # hello-world
-short rep to learn basics
+short repository to learn basics
 
-branching and making cahanges
+trying branching and making changes
